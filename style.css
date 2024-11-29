@@ -1,0 +1,42 @@
+header{
+    height: 50px;
+    width: 100vw;
+    text-align: center;
+    background-color: #3c4245;
+    color: rgb(252, 243, 232);
+    padding: 30px;
+    
+}
+body{
+    background-color: #dfcdc3;
+    font-family: 'Times New Roman', Times, serif;
+    color: #3c4245;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+footer{
+    width: 100vw;
+    padding: 30px;
+    text-align: center;
+    background-color: #3c4245;
+    color: rgb(252, 243, 232);
+    width: 100%;
+    
+}
+a{
+    color: rgb(252, 243, 232);
+}
+img{
+    max-width: 50vw;
+    transition: transform 1s;
+}
+img:hover{
+    transform: scale(1.1);
+}
+figure{
+    background-color: #7191928d;
+    padding: 30px;
+    border-radius: 10px;
+
+}
